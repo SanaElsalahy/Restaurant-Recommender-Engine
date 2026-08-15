@@ -2,7 +2,7 @@
 ---
 
 ## 📌 Project Overview
-This repository contains the final, reproducible code for Team DeepX's submission to the Next-Item Prediction Challenge. The notebook implements a **Dual-Transformer Ensemble with Dynamic Routing**, which achieved a final **Private Leaderboard score of 0.7855 (Rank #5)**. 
+This repository contains the final, reproducible code for Team DeepX's submission to the Next-Item Prediction Challenge. The notebook implements a **Dual-Transformer Ensemble with Dynamic Routing**, which achieved a final **Private Leaderboard score of 0.7855 (Rank #3)**. 
 
 The architecture features two heavily regularized 64-dimensional Transformers (one purely sequential, one context-aware utilizing meal and day embeddings) fused via Reciprocal Rank Fusion (RRF) across 7 deterministic seeds.
 
