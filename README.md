@@ -1,7 +1,4 @@
 # Next-Item Prediction for Basket Completion
-**Data Mining Final Project** **Instructor:** Dr. Othman Soufan  
-**Team DeepX:** Aseel Ali (4410624) | Sana Ahmed (4410212) | Roaa Ghandour (4410541)
-
 ---
 
 ## 📌 Project Overview
