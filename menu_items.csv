@@ -1,0 +1,51 @@
+item_id,item_name,category,subcategory,base_price,description,tags,typical_modifiers,popularity_weight,calories,is_vegetarian,is_vegan,is_spicy,is_halal,protein_type
+WRAP001,Chicken Shawarma Wrap,Wraps,Shawarma,10.99,"Tender marinated chicken shawarma wrapped in fresh pita with pickles, tomatoes, and garlic sauce",bestseller|chicken|shawarma|popular,Garlic Sauce|Hot Sauce|Extra Pickles|No Onions,3.0,680,False,False,False,True,chicken
+WRAP002,Beef Shawarma Wrap,Wraps,Shawarma,11.99,"Savory beef shawarma with tahini, pickled vegetables, and fresh herbs",beef|shawarma,Tahini|Hot Sauce|Extra Meat,1.2,720,False,False,False,True,beef
+WRAP003,Mixed Shawarma Wrap,Wraps,Shawarma,12.99,Best of both worlds - chicken and beef shawarma combined,chicken|beef|shawarma|mixed,Garlic Sauce|Tahini|Hot Sauce,0.9,700,False,False,False,True,mixed
+WRAP004,Kebab Wrap,Wraps,Kebab,11.99,Two juicy beef kebab skewers wrapped in warm pita,beef|kebab|grilled,Garlic Sauce|Hot Sauce|Hummus,1.3,640,False,False,False,True,beef
+WRAP005,Falafel Wrap,Wraps,Vegetarian,9.99,"Crispy falafel with hummus, tahini, and fresh vegetables",vegetarian|vegan|falafel|healthy,Tahini|Hummus|Hot Sauce,0.8,520,True,True,False,True,
+WRAP006,Chicken Tawook Wrap,Wraps,Grilled Chicken,11.99,Grilled chicken tawook skewers with garlic sauce,chicken|grilled|tawook,Garlic Sauce|Toum|Extra Pickles,1.1,580,False,False,False,True,chicken
+WRAP007,Lamb Wrap,Wraps,Lamb,13.99,Tender lamb with Mediterranean spices and mint yogurt,lamb|premium,Mint Yogurt|Tahini|Hot Sauce,0.6,690,False,False,False,True,lamb
+PLATE001,Chicken Shawarma Plate,Plates,Shawarma,16.99,Generous portion of chicken shawarma over rice or fries with sides,chicken|shawarma|plate|value,Rice|Fries|Garlic Sauce|Hummus,1.5,950,False,False,False,True,chicken
+PLATE002,Beef Shawarma Plate,Plates,Shawarma,17.99,"Sliced beef shawarma plate with hummus, salad, and pita",beef|shawarma|plate,Rice|Fries|Tahini|Hummus,1.0,1020,False,False,False,True,beef
+PLATE003,Mixed Grill Plate,Plates,Mixed,22.99,"Ultimate combo: shawarma, kebab, and tawook with all the fixings",mixed|premium|combo|family,Rice|Garlic Sauce|Hummus|Hot Sauce,0.8,1350,False,False,False,True,mixed
+PLATE004,Kebab Plate,Plates,Kebab,17.99,Three beef kebab skewers with rice pilaf and grilled vegetables,beef|kebab|grilled,Rice|Fries|Garlic Sauce,0.9,880,False,False,False,True,beef
+PLATE005,Falafel Plate,Plates,Vegetarian,14.99,"Six falafel pieces with hummus, tabbouleh, and warm pita",vegetarian|vegan|falafel|healthy,Tahini|Hummus|Extra Falafel,0.6,720,True,True,False,True,
+PLATE006,Lamb Chops Plate,Plates,Lamb,24.99,Premium lamb chops grilled to perfection with rice and vegetables,lamb|premium|special,Rice|Mint Sauce|Grilled Vegetables,0.4,980,False,False,False,True,lamb
+PLATE007,Chicken Tawook Plate,Plates,Grilled Chicken,16.99,Grilled chicken tawook skewers with garlic cream sauce,chicken|grilled|tawook,Rice|Fries|Garlic Sauce|Toum,0.85,820,False,False,False,True,chicken
+HIGH001,Chicken Crunch Highlander,Highlanders,Signature,16.99,Crispy chicken seasoned with unique spices over fries or rice,chicken|crispy|signature|popular,Rice|Fries|Garlic Sauce|Spicy Sauce,1.8,1100,False,False,False,True,chicken
+HIGH002,Beef Highlander,Highlanders,Signature,17.99,Seasoned beef strips over a bed of fries with special sauce,beef|signature,Rice|Fries|Spicy Sauce|Garlic Sauce,0.9,1150,False,False,False,True,beef
+HIGH003,Spicy Chicken Highlander,Highlanders,Signature,17.99,Crispy chicken with a spicy kick and jalapeños,chicken|spicy|signature,Rice|Fries|Hot Sauce|Ranch,0.7,1120,False,False,True,True,chicken
+HIGH004,Veggie Highlander,Highlanders,Signature,15.99,Crispy falafel and grilled vegetables over rice or fries,vegetarian|signature|healthy,Rice|Fries|Tahini|Hummus,0.4,780,True,False,False,True,
+APP001,Hummus,Appetizers,Dips,6.99,"Creamy chickpea dip with tahini, lemon, and olive oil",vegetarian|vegan|dip|healthy,Pita Bread|Extra Olive Oil,1.0,280,True,True,False,True,
+APP002,Baba Ganoush,Appetizers,Dips,7.99,Smoky roasted eggplant dip with tahini and garlic,vegetarian|vegan|dip|smoky,Pita Bread,0.6,220,True,True,False,True,
+APP003,Grape Leaves,Appetizers,Cold Appetizers,7.99,Tender grape leaves stuffed with rice and herbs,vegetarian|vegan|traditional,Lemon|Yogurt,0.5,180,True,True,False,True,
+APP004,Falafel Appetizer,Appetizers,Hot Appetizers,5.99,Four crispy falafel pieces with tahini dipping sauce,vegetarian|vegan|falafel,Tahini|Hot Sauce,0.8,320,True,True,False,True,
+APP005,Cheese Rolls,Appetizers,Hot Appetizers,6.99,Crispy phyllo rolls filled with feta and herbs,vegetarian|cheese|crispy,Mint Dip,0.7,380,True,False,False,True,
+APP006,Kibbeh,Appetizers,Hot Appetizers,8.99,Fried bulgur shells stuffed with spiced beef and pine nuts,beef|traditional|fried,Yogurt Dip,0.5,420,False,False,False,True,beef
+SIDE001,French Fries,Sides,Fries,4.99,Golden crispy french fries,vegetarian|vegan|fries,Garlic Sauce|Ketchup,1.5,380,True,True,False,True,
+SIDE002,Garlic Fries,Sides,Fries,5.99,French fries tossed in our signature garlic sauce,vegetarian|fries|garlic,Extra Garlic,0.8,450,True,False,False,True,
+SIDE003,Rice Pilaf,Sides,Grains,3.99,Fluffy basmati rice with vermicelli,vegetarian|vegan|rice,,0.9,280,True,True,False,True,
+SIDE004,Pita Bread,Sides,Bread,2.99,Warm fresh pita bread (3 pieces),vegetarian|vegan|bread,,0.6,180,True,True,False,True,
+SIDE005,Pickles,Sides,Condiments,2.99,Assorted Middle Eastern pickled vegetables,vegetarian|vegan|tangy,,0.4,20,True,True,False,True,
+SAL001,Fattoush,Salads,Traditional,8.99,Fresh vegetables with crispy pita chips and sumac dressing,vegetarian|vegan|healthy|traditional,Extra Pita Chips|Add Chicken,0.7,220,True,True,False,True,
+SAL002,Tabbouleh,Salads,Traditional,7.99,"Parsley salad with bulgur, tomatoes, mint, and lemon",vegetarian|vegan|healthy|traditional,,0.6,160,True,True,False,True,
+SAL003,Greek Salad,Salads,Mediterranean,9.99,"Tomatoes, cucumbers, olives, and feta with olive oil",vegetarian|healthy|mediterranean,Add Chicken|Extra Feta,0.5,280,True,False,False,True,
+SAL004,House Salad,Salads,House,6.99,Mixed greens with house vinaigrette,vegetarian|vegan|light,Add Chicken|Ranch Dressing,0.4,120,True,True,False,True,
+BEV001,Fresh Lemonade,Beverages,Fresh Juice,3.99,Freshly squeezed lemonade with mint,vegetarian|vegan|refreshing,Extra Sweet|No Sugar,1.0,120,True,True,False,True,
+BEV002,Mango Lassi,Beverages,Smoothie,4.99,Creamy yogurt drink blended with sweet mango,vegetarian|yogurt|creamy,Extra Mango,0.7,280,True,False,False,True,
+BEV003,Mint Tea,Beverages,Hot Drinks,2.99,Traditional hot mint tea with honey,vegetarian|vegan|hot|traditional,Extra Honey,0.6,40,True,True,False,True,
+BEV004,Turkish Coffee,Beverages,Hot Drinks,3.49,Strong traditional coffee served with cardamom,vegetarian|vegan|hot|traditional|coffee,Sweet|Medium|Bitter,0.5,10,True,True,False,True,
+BEV005,Ayran,Beverages,Yogurt Drinks,2.99,Traditional salted yogurt drink,vegetarian|yogurt|traditional|refreshing,,0.5,120,True,False,False,True,
+BEV006,Soft Drink,Beverages,Soda,2.49,"Coca-Cola, Sprite, or Fanta",soda,Coke|Sprite|Fanta,1.2,150,True,True,False,True,
+BEV007,Bottled Water,Beverages,Water,1.99,Purified bottled water,water|healthy,,0.8,0,True,True,False,True,
+BEV008,Fresh Orange Juice,Beverages,Fresh Juice,4.49,Freshly squeezed orange juice,vegetarian|vegan|fresh|healthy,,0.6,110,True,True,False,True,
+DES001,Baklava,Desserts,Pastry,4.99,Layers of phyllo pastry with honey and pistachios,vegetarian|sweet|traditional,,1.0,320,True,False,False,True,
+DES002,Kunafa,Desserts,Pastry,6.99,Sweet cheese pastry with rose water syrup,vegetarian|sweet|cheese|traditional,Extra Syrup|With Ice Cream,0.7,450,True,False,False,True,
+DES003,Rice Pudding,Desserts,Pudding,4.49,Creamy rice pudding with cinnamon and rose water,vegetarian|sweet|creamy,Extra Cinnamon|With Nuts,0.5,280,True,False,False,True,
+DES004,Halva,Desserts,Traditional,3.99,Sweet tahini confection with pistachios,vegetarian|vegan|sweet|traditional,,0.4,240,True,True,False,True,
+SAUCE001,Garlic Sauce,Sauces,Sauce,1.0,Our signature creamy garlic sauce (Toum),vegetarian|garlic|popular,,2.5,120,True,False,False,True,
+SAUCE002,Tahini Sauce,Sauces,Sauce,1.0,Smooth sesame tahini sauce,vegetarian|vegan|sesame,,1.0,100,True,True,False,True,
+SAUCE003,Hot Sauce,Sauces,Sauce,0.75,Spicy chili sauce,vegetarian|vegan|spicy,,1.2,15,True,True,True,True,
+SAUCE004,Tzatziki,Sauces,Sauce,1.0,Cool cucumber yogurt sauce,vegetarian|yogurt|cooling,,0.6,50,True,False,False,True,
+SAUCE005,Hummus Cup,Sauces,Dip,1.5,Small portion of our creamy hummus,vegetarian|vegan|dip,,0.8,100,True,True,False,True,
